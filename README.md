@@ -6,7 +6,7 @@ if you having problem with inputfield on unity webgl mobile browser, there is i 
 
 ![alt text](https://github.com/madfaladam/unity-virtual-keyboard/blob/main/unity-virtual-keyboard/Assets/Sprites/screenshot/sc0.png?raw=true)
 
-you can try this [demo](https://www.google.com)
+you can try this [demo](https://lcgeoloc.000webhostapp.com/demoVirtualKeyboard/)
 
 TODO:
 * Add button to overlay the input field that you want to select.
