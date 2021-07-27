@@ -11,5 +11,5 @@ you can try this [demo](https://lcgeoloc.000webhostapp.com/demoVirtualKeyboard/)
 TODO:
 * Add button to overlay the input field that you want to select.
 * Look at Inspector, Fill button event OnClick. see screenshot above.
-* Click to Test
+* Click Play to Test
 
